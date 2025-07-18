@@ -1,4 +1,4 @@
-# 🧠 FinEntity-Extension: Benchmarking Entity-Level Sentiment for Financial Texts
+# 🧠 An Extension of FinEntity: Benchmarking Entity-Level Sentiment for Financial Texts
 
 **An Extension of FinEntity: Enhanced Entity-Level Sentiment Classification and Commodity Case Study**  
 By Niranjan Vijaya Krishnan, Lily Weaver, Chaeyoung Lee
