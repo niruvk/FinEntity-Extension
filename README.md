@@ -2,7 +2,6 @@
 
 **An Extension of FinEntity: Enhanced Entity-Level Sentiment Classification and Commodity Case Study**  
 By Niranjan Vijaya Krishnan, Lily Weaver, Chaeyoung Lee
-
 [📄 Paper](https://niruvk.github.io/FinEntity-Extension/FinEntity_Paper.pdf)
 
 ---
