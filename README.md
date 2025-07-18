@@ -3,6 +3,8 @@
 **An Extension of FinEntity: Enhanced Entity-Level Sentiment Classification and Commodity Case Study**  
 By Niranjan Vijaya Krishnan, Lily Weaver, Chaeyoung Lee
 
+[📄 Paper](https://niruvk.github.io/FinEntity-Extension/FinEntity_Paper.pdf)
+
 ---
 
 ## 🔍 Overview
@@ -115,13 +117,6 @@ Outputs normalized sentiment and MIC scores for oil, gold, copper, and silver.
 
 ---
 
-## 📈 Sample Visualization
-
-> ![Entity vs. Price](results/plots/oil_entity_vs_price.png)  
-_Entity-level sentiment (orange) vs. Oil Price (blue)_
-
----
-
 ## 📚 Citation
 
 If you use this repo or build on it, please cite:
@@ -135,19 +130,3 @@ If you use this repo or build on it, please cite:
   url={https://github.com/niruvk/FinEntity-Extension}
 }
 ```
-
----
-
-## 🔮 Future Work
-
-- Benchmark Claude, Gemini, and other LLMs on FinEntity.
-- Pre-train **FinDeBERTa** and **FinRoBERTa** on large financial corpora.
-- Expand sentiment analysis to stocks, bonds, real estate, and derivatives.
-- Apply to real-world trading tasks (P/L analysis, risk modeling, portfolio simulation).
-
----
-
-## 📌 Acknowledgments
-
-This project builds on Tang et al.’s [FinEntity (2023)](https://arxiv.org/abs/2302.13971).  
-Thanks to OpenAI, Meta, Microsoft, and Alibaba for providing LLMs and pre-trained models.
